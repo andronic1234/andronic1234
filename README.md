@@ -4,7 +4,7 @@
 
 <br><br>
 
-### My name is Andreas. I am a student who is learning web development and other interesting technologies.
+### My name is Andreas. I am a student who likes learning web development and other interesting technologies.
 
 <br><br>
 
@@ -47,6 +47,7 @@
 <br><hr><br>
 
 ## Get in touch:
+#### Lets make something together!
 
 <br>
 
