@@ -47,7 +47,7 @@
 <br><hr><br>
 
 ## Get in touch:
-#### Lets make something together!
+#### Let's make something together!
 
 <br>
 
