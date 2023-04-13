@@ -12,7 +12,7 @@
 
 <br>
 
-![](https://skills.thijs.gg/icons?i=js,html,css,sass,react,electron,express,git)
+![](https://skills.thijs.gg/icons?i=ts,js,html,css,sass,tailwind,react,electron,express,git)
 
 <br>
 
@@ -47,6 +47,7 @@
 <br><hr><br>
 
 ## Get in touch:
+
 #### Let's make something together!
 
 <br>
