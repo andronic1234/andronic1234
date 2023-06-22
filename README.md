@@ -54,4 +54,4 @@
 
 - Instagram: <i>andreas_foto</i>
 
-- Discord: <i>Andronic123#8281</i>
+- Discord: <i>andr123</i>
