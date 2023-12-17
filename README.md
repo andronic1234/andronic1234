@@ -40,8 +40,6 @@
 
 - Video Editing
 
-- Music
-
 - Cooking
 
 <br><hr><br>
